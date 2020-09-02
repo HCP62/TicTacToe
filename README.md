@@ -13,17 +13,17 @@ R = Random placement computer
 P = AI that has certain priorities
 M = Minimax AI
 
-R vs P:
+(R vs P:
   R: ~200
   P: ~700
-  Ties: ~100
-P vs M:
+  Ties: ~100)
+(P vs M:
   P: 0
   M: 0
-  Ties: 100
-R vs M:
+  Ties: 100)
+(R vs M:
   R: 0
   M: 1000
-  Ties: 0
+  Ties: 0)
   
 What really surprised me was the fact that even though one AI is more advanced than the other, it still is unable to beat the other. I thought that Minimax would win by a landslide over it, so I was really taken aback and was proud of the fact that even an AI that has only a few priorities (to block, to go for a winning play, etc.) is able to match up with an AI that tests each move and picks out the most benefitial one for itself.
