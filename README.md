@@ -14,15 +14,15 @@ P = AI that has certain priorities
 M = Minimax AI
 
 R vs P:
-  (R: ~200
+  (R: ~200 |
   P: ~700
   Ties: ~100)
 P vs M:
-  (P: 0
+  (P: 0 |
   M: 0
   Ties: 100)
 R vs M:
-  (R: 0
+  (R: 0 |
   M: 1000
   Ties: 0)
   
